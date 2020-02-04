@@ -9,7 +9,7 @@ download jar file from here to start the spring boot endpoints
 https://github.com/sarindufit/angular-ngrx-example/blob/master/angular-ngrx-example/course-1.0.0-SNAPSHOT.jar
 
 for run this jar 
-java -jar {path_to_the_jar_file}/course-1.0.0-SNAPSHOT.jar
+`java -jar {path_to_the_jar_file}/course-1.0.0-SNAPSHOT.jar`
 
 # AngularNgrxExample
 
